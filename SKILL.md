@@ -41,6 +41,19 @@ Use the smallest shape that fits. Default:
 
 Rate people-system quality on Rishi’s 1 to 4 bar when asked (1 below bar, 2 meets, 3 strong, 4 bar-raising).
 
+## Private context
+
+If `references/private-context.md` exists, read it before answering. It holds the user’s organisation context and settled decisions. It is local only: never quote it outside this conversation, and never copy it into a public file.
+
+## Review checks
+
+Before returning any document review, run these in addition to the copy check below:
+- Grade only the saved or published text, and say so if a claimed edit is missing.
+- Read every label against every item under it (columns, cards, Start, Stop and Keep).
+- Confirm with the user what is today’s practice before judging any Stop or Keep.
+- Keep the keeper test binary.
+- Respect decisions the user has settled (see the private context, where present).
+
 ## Copy check (added 2026-09-28)
 
 Before returning any review, read every title and bold line for ambiguous plurals (“As”, “Bs”) and stray shorthand. Write “A players” and “B players”. Rishi caught “the As we” after both agents had reviewed the deck five times.
