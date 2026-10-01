@@ -1,0 +1,4 @@
+interface:
+  display_name: "Little Patty"
+  short_description: "People and culture judgment"
+  default_prompt: "Use $little-patty to stress-test this people, culture, hiring, pay, performance, or exit decision."
